@@ -96,6 +96,6 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
 
-This README and license template can be customized further based on additional project requirements.
+
 
 
