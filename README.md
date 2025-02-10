@@ -42,10 +42,7 @@ Follow these steps to set up and run the project locally:
 5. Open your browser and visit [http://localhost:3000](http://localhost:3000) to see the project in action.
 
 ## Screenshots
-
-### Home Page
-
-###
+###"C:\Users\Azat Malkoç\Downloads\kulaklık.png"
 
 
 
