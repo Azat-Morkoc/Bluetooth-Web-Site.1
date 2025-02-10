@@ -40,12 +40,7 @@ Follow these steps to set up and run the project locally:
    ```
 
 ## Screenshots
-
-
 ![görsel2](store-4.png)
-
-
-
 
 ## Usage
 
