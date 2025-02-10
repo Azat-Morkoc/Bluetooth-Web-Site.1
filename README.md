@@ -43,7 +43,7 @@ Follow these steps to set up and run the project locally:
 
 ## Screenshots
 
-![Screenshots](C:\Users\Azat Malkoç\Downloads\kulaklık.png)
+![Screenshots](kulaklık.png)
 
 "
 
