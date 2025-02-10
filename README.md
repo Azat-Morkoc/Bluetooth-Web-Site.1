@@ -39,11 +39,9 @@ Follow these steps to set up and run the project locally:
    npm start
    ```
 
-5. Open your browser and visit [http://localhost:3000](http://localhost:3000) to see the project in action.
-
 ## Screenshots
 
-![görsel](kulaklık.png)
+
 ![görsel2](store-4.png)
 
 
