@@ -43,9 +43,9 @@ Follow these steps to set up and run the project locally:
 
 ## Screenshots
 
-![Screenshots](kulaklık.png)
+![görsel](kulaklık.png)
+![görsel2](store-4.png)
 
-"
 
 
 
